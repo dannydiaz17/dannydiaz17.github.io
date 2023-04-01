@@ -1,72 +1,72 @@
 /* Main Rules */
-.separator {background: #f7465b;}
-.tooltip-inner {background-color: #f7465b;}
-.tooltip.top .tooltip-arrow {border-top-color: #f7465b;}
-::-moz-selection {background: #f7465b;}
-::selection {background: #f7465b;}
-.btn-custom {border: 1px solid #f7465b;}
-.btn-custom:hover {background: #f7465b;}
-.btn-custom.reverse {background: #f7465b;}
-.btn-custom.reverse:hover {border: 1px solid #f7465b;}
-.btn-custom.light:hover {color: #f7465b !important;}
+.separator {background: #0047AB;}
+.tooltip-inner {background-color: #0047AB;}
+.tooltip.top .tooltip-arrow {border-top-color: #0047AB;}
+::-moz-selection {background: #0047AB;}
+::selection {background: #0047AB;}
+.btn-custom {border: 1px solid #0047AB;}
+.btn-custom:hover {background: #0047AB;}
+.btn-custom.reverse {background: #0047AB;}
+.btn-custom.reverse:hover {border: 1px solid #0047AB;}
+.btn-custom.light:hover {color: #0047AB !important;}
 
 /* Color-Box Switch */
-.color-switcher h6 {background: #f7465b;}
-.color-switcher .switcher-btn {background: #f7465b;}
-.color-switcher .map-styles li a:hover {background: #f7465b;}
+.color-switcher h6 {background: #4444b2;}
+.color-switcher .switcher-btn {background: #0047AB;}
+.color-switcher .map-styles li a:hover {background: #0047AB;}
 
 /* Home Section */
-#home .navbar span.colored-brand {background: #f7465b;}
-#home .navbar .nav>li>a:focus, #home .navbar .nav>li>a:hover {color: #f7465b;}
-#home .navbar.scrolled .navbar-brand {color: #f7465b;}
-#home .navbar.scrolled .navbar-toggle .icon-bar {background-color: #f7465b;}
-#home .navbar.scrolled .nav .active a {background: #f7465b;}
-.hero-content-wrapper .hero-content span.dot {background: #f7465b;}
-#home .go-down:hover {background: #f7465b; border-color: #f7465b;}
+#home .navbar span.colored-brand {background: #0047AB;}
+#home .navbar .nav>li>a:focus, #home .navbar .nav>li>a:hover {color: #0047AB;}
+#home .navbar.scrolled .navbar-brand {color: #0047AB;}
+#home .navbar.scrolled .navbar-toggle .icon-bar {background-color: #0047AB;}
+#home .navbar.scrolled .nav .active a {background: #0047AB;}
+.hero-content-wrapper .hero-content span.dot {background: #0047AB;}
+#home .go-down:hover {background: #0047AB; border-color: #0047AB;}
 
 /* About Section */
-#about .info-tabs .nav-tabs>li>a {background: #f7465b;}
+#about .info-tabs .nav-tabs>li>a {background: #0047AB;}
 #about .info-tabs .nav-tabs>li.active>a,
 #about .info-tabs .nav-tabs>li.active>a:focus,
 #about .info-tabs .nav-tabs>li.active>a:hover,
-#about .info-tabs .nav-tabs>li>a:hover {border-color: #f7465b;}
-#about .info-tabs .tab-content {border: 1px solid #f7465b;}
+#about .info-tabs .nav-tabs>li>a:hover {border-color: #0047AB;}
+#about .info-tabs .tab-content {border: 1px solid #0047AB;}
 
 /* Ready Section */
-#ready {background: #f7465b;}
+#ready {background: #0047AB;}
 
 /* Services Section */
-#services .service i:after {box-shadow: 0px 0px 0px 4px #f7465b;}
-#services .service:hover i {background: #f7465b;}
+#services .service i:after {box-shadow: 0px 0px 0px 4px #0047AB;}
+#services .service:hover i {background: #0047AB;}
 
 /* Skills Section */
-#skills .skill .chart span.percent {color: #f7465b;}
+#skills .skill .chart span.percent {color: #0047AB;}
 
 /* Testimonials Section */
-#testimonials .carousel .carousel-indicators li.active {background: #f7465b;}
-#testimonials .carousel .carousel-control {border: 1px solid #f7465b;}
-#testimonials .carousel .carousel-control:hover {background: #f7465b;}
+#testimonials .carousel .carousel-indicators li.active {background: #0047AB;}
+#testimonials .carousel .carousel-control {border: 1px solid #0047AB;}
+#testimonials .carousel .carousel-control:hover {background: #0047AB;}
 
 /* Experiences Section */
-#experiences .timeline .event .event-left i {color: #f7465b;}
-#experiences .timeline .event .event-left h4 {background: #f7465b;}
-#experiences .timeline .event .event-right::before {background: #f7465b;}
-#experiences .timeline .event .event-right::after {border: 2px solid #f7465b;}
+#experiences .timeline .event .event-left i {color: #0047AB;}
+#experiences .timeline .event .event-left h4 {background: #0047AB;}
+#experiences .timeline .event .event-right::before {background: #0047AB;}
+#experiences .timeline .event .event-right::after {border: 2px solid #0047AB;}
 
 /* Contact Section */
-#contact .call-info i {background: #f7465b;}
-#contact .call-info:hover .info-wrapper {background: #f7465b;}
-#contact .call-info:hover i {color: #f7465b;}
-#contact form #submit:hover {background: #f7465b; border-color: #f7465b;}
+#contact .call-info i {background: #0047AB;}
+#contact .call-info:hover .info-wrapper {background: #0047AB;}
+#contact .call-info:hover i {color: #0047AB;}
+#contact form #submit:hover {background: #0047AB; border-color: #0047AB;}
 
 /* To Top Button */
-#toTop {background: #f7465b;}
+#toTop {background: #0047AB;}
 
 /* -------------------------------------
               Media Queries
 * ------------------------------------- */
 @media (max-width: 991px) { 
 	/* Adjusting the navbar */
-	#home .navbar .nav .active a, #home .navbar .navbar-brand {color: #f7465b;}
-	#home .navbar .navbar-toggle .icon-bar {background: #f7465b;}
+	#home .navbar .nav .active a, #home .navbar .navbar-brand {color: #0047AB;}
+	#home .navbar .navbar-toggle .icon-bar {background: #0047AB;}
 }

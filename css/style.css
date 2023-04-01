@@ -66,16 +66,16 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: "Raleway", sans-serif;
 	font-weight: 500;
 	text-transform: uppercase;
-	color: #333;
+	color: #ddd;
 	margin-top: 0;
 }
 p.para {
 	font-family: "Open Sans", sans-serif;
 	line-height: 24px;
-	color: #777;
+	color: #ddd;
 }
-::-moz-selection {color: #fff;}
-::selection {color: #fff;}
+::-moz-selection {color: #2D3033;}
+::selection {color: #2D3033}
 
 /*** 2-b - Helping Classes ***/
 .section {padding: 80px 0 40px;}
@@ -144,7 +144,7 @@ a, a:active, a:focus {outline: 0 !important; text-decoration: none !important;}
     letter-spacing: 1.5px;
     text-transform: uppercase;
     background: transparent;
-    color: #333;
+    color: #ddd;
     -webkit-transition: all 0.3s cubic-bezier(0.68, -0.07, 0.25, 0.93);
     		transition: all 0.3s cubic-bezier(0.68, -0.07, 0.25, 0.93);
 }
@@ -170,7 +170,7 @@ a, a:active, a:focus {outline: 0 !important; text-decoration: none !important;}
 	left: 0;
 	bottom: 0;
 	right: 0;
-	background: #fff;
+	background: #4D5157;
 }
 .loading .loading-wrapper {
 	position: relative;
@@ -185,12 +185,12 @@ a, a:active, a:focus {outline: 0 !important; text-decoration: none !important;}
 	width: 50px;
 	height: 50px;
 	margin: auto;
-	background: #f7465b;
+	background: #4D5157;
 	-webkit-animation: rotateRec 1.5s infinite ease-in-out;
 			animation: rotateRec 1.5s infinite ease-in-out;
 }
 .loading .loading-wrapper h4 {
-	color: #f7465b;
+	color: #0047AB;
 	letter-spacing: 6px;
 	margin-top: 30px;
 }
@@ -298,14 +298,14 @@ a, a:active, a:focus {outline: 0 !important; text-decoration: none !important;}
 
 /*** 5-a - Backgrounds ***/
 #home {
-	background-color: #333;
+	background-color: #2D3033;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
 	position: relative;
 }
 #home.main {background-image: url("../img/header.jpg");}
-#home.bg-2 {background-image: url("../img/bg-06.jpg");}
+#home.bg-2 {background-image: url("../img/bg-09.jpg");}
 #home.bg-3 {background-image: url("../img/bg-08.jpg");}
 #home.parallax {
 	background-image: url("../img/bg-05.jpg");
@@ -322,7 +322,7 @@ a, a:active, a:focus {outline: 0 !important; text-decoration: none !important;}
     		transition: all 0.4s ease-in-out;
 }
 #home .navbar .navbar-brand {
-	color: #fff;
+	color: ##9d9e9f;
 	height: inherit;
 	height: 80px;
 	line-height: 80px;
@@ -334,7 +334,7 @@ a, a:active, a:focus {outline: 0 !important; text-decoration: none !important;}
     		transition: all 0.4s ease-in-out;
 }
 #home .navbar span.colored-brand {
-	color: #fff;
+	color: #707781;
 	font-size: 30px;
 	line-height: 10px;
 	padding: 0px 5px 4px;
@@ -351,7 +351,7 @@ a, a:active, a:focus {outline: 0 !important; text-decoration: none !important;}
 #home .navbar .nav .active a {background: none;	color: #fff;}
 #home .navbar.scrolled {
 	box-shadow: 0 0 15px 0px rgba(0,0,0,.25);
-	background: #fff;
+	background: #707781;
 	border-bottom: none;
 }
 #home .navbar.scrolled .navbar-brand {
@@ -400,7 +400,7 @@ a, a:active, a:focus {outline: 0 !important; text-decoration: none !important;}
 	letter-spacing: 5px;
 	line-height: 1;
 	margin: 0px auto;
-	color: #fff;
+	color: #9d9e9f;
 }
 .hero-content-wrapper .hero-content p {
 	font-family: "Raleway", sans-serif;
