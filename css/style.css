@@ -75,7 +75,7 @@ p.para {
 	color: #ddd;
 }
 ::-moz-selection {color: #2D3033;}
-::selection {color: #2D3033}
+::selection {color: #fff}
 
 /*** 2-b - Helping Classes ***/
 .section {padding: 80px 0 40px;}
@@ -379,6 +379,11 @@ a, a:active, a:focus {outline: 0 !important; text-decoration: none !important;}
 #home .navbar.scrolled .nav .active a {color: #fff;}
 
 /*** 5-c - Content ***/
+.bullets {
+	list-style-type: disc;
+	list-style-color: #fff;
+}
+
 .hero-content-wrapper {
 	display: table;
 	position: absolute;
