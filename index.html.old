@@ -1,0 +1,1296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<!-- IE compatibility -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Daniel Diaz Personal Portfolio and Blog">
+    <meta name="author" content="Ahmed Beheiry">
+
+	<title>Daniel Diaz | Portfolio</title>
+
+	<!-- Favicons Links -->
+	<link rel="apple-touch-icon" sizes="180x180" href="img/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="img/favicons/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="img/favicons/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="img/favicons/manifest.json">
+	<link rel="mask-icon" href="img/favicons/safari-pinned-tab.svg" color="#0c7cd5">
+	<link rel="shortcut icon" href="img/favicons/favicon.ico">
+	<meta name="msapplication-config" content="img/favicons/browserconfig.xml">
+	<meta name="theme-color" content="#0c7cd5">
+
+	<!-- Bootstrap css file -->
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<!-- Fontawesome library css file -->
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<!-- Animate css file -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Slick Slider css file -->
+	<link rel="stylesheet" href="css/slick.css">
+	<!-- Custom styles css file -->
+	<link rel="stylesheet" href="css/style.css">
+	<!-- Color styles css file -->
+	<link rel="stylesheet" href="css/colors/color-1.css">
+
+
+	<!--[if lt IE 9]>
+    	<script src="js/html5shiv.js"></script>
+    	<script src="js/respond.js"></script>
+    <![endif]-->
+
+</head>
+<body id="top-page" data-spy="scroll" data-target=".navbar-fixed-top" data-offset="70">
+
+	<!-- Start Loading Page -->
+	<div class="loading">
+		<div class="loading-wrapper">
+			<div class="loader"></div>
+			<h4>Loading</h4>
+		</div>
+	</div>
+	<!-- End Loading Page --> 
+
+
+	<!-- start Home Section -->
+	<div id="home" class="main bg-2">
+		<!-- Navigation -->
+		<nav class="navbar navbar-default navbar-fixed-top">
+			<!-- Start container -->
+			<div class="container">
+				<!-- Logo and toggle  -->
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collaps" aria-expanded="false">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<!-- Start Logo -->
+			  		<a class="scroll-link navbar-brand" href="index.html#top-page">dannydiaz17.github <span class="colored-brand">.io</span></a>
+			  		<!-- End Logo -->
+				</div>
+
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="navbar-collaps">
+					<ul class="nav navbar-nav navbar-right">
+						<li class="active">
+							<a class="scroll-link" href="index.html#top-page"></a>
+						</li>
+					</ul>
+				</div>   <!-- /.navbar-collapse --> 
+			</div>   <!-- End container -->
+		</nav>   <!-- End Navigation -->
+		<!-- Start Content -->
+		<div class="hero-content-wrapper overlay">
+			<div class="hero-content text-center">
+				<div class="container">
+					<div class="row">
+						<div class="col-xs-12">
+							<h1>Welcome</h1>
+							<p>Technology<span class="dot"></span>Enabling<span class="dot"></span>Efficacy</p>
+						</div>
+					</div>
+				</div>				
+			</div>
+		</div> <!-- End Content -->
+		<a href="index.html#about" class="go-down scroll-link">
+			<span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span>
+		</a>
+	</div>
+	<!-- End Home Section -->
+
+	<!-- Start About Me Section -->
+	<section id="about" class="section">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="profile-intro text-center">
+						<div class="profile-img-wrapper wow fadeInUp" data-wow-duration="1s" data-wow-offset="200">
+						<img class="img-responsive img-circle" src="img/profile.jpg" alt="john doe profile">
+					</div>
+					<h2>Daniel Diaz</h2>
+					<div class="separator centered"></div>
+					<p class="title">IT Infrastructure Design</p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<!-- My Personal Info -->
+				<div class="profile text-center col-sm-5 col-sm-push-7">
+					<div class="wow fadeInRight" data-wow-duration="1s" data-wow-offset="200">
+						<h4>Personal Info</h4>
+						<div class="separator centered"></div>
+						<p class="para"><span class="highlight">My Name:</span> Daniel Diaz</p>
+						<p class="para"><span class="highlight">Based in:</span> Greater New York Metropolitan Area</p>
+						<p class="para"><span class="highlight">E-mail:</span> <a href="mailto:daniel.diaz.oem@gmail.com">daniel.diaz.oem@gmail.com</a></p>
+						<p class="para"><span class="highlight">Website:</span> <a href="index.html#">www.dannydiaz17.github.io</a></p>
+						<p class="para"><span class="highlight">Github:</span> <a href="https://www.github.com/dannydiaz17/" target="_blank"> dannydiaz17 </a></p>
+						<p class="para"><span class="highlight">Phone:</span> <a href="tel:19296660871">+1 (929) 666 - 0871</a></p>
+						<p class="para"><span class="highlight">Whatsapp:</span> <a href="https://api.whatsapp.com/send?phone=19296660871" target="_blank">+1 (929) 666 - 0871</a></p>
+						<p class="para"><span class="highlight">Capabilities:</span> GNU Linux, Mac OS, Windows </p>
+					</div>
+				</div>
+				<div class="info-tabs col-sm-7 col-sm-pull-5 wow fadeInLeft" data-wow-duration="1s" data-wow-offset="200">
+					<!-- Tabs Nav -->
+					<ul class="nav nav-tabs" role="tablist">
+						<li role="presentation" class="active">
+							<a href="index.html#about-me-panel" aria-controls="about-me-panel" role="tab" data-toggle="tab">About Me</a>
+						</li>
+						<li role="presentation">
+							<a href="index.html#why-me-panel" aria-controls="why-me-panel" role="tab" data-toggle="tab">Why Me</a>
+						</li>
+
+					</ul>
+					<!-- Tabs Panel -->
+					<div class="tab-content">
+						<!-- About Me Panel -->
+						<div role="tabpanel" class="tab-pane fade in active" id="about-me-panel">
+							<h4>About Me</h4>
+							<div class="separator"></div>
+							<p class="para"><span>Hello, <br> Technology has been incredibly advancing, destroying the barriers of what we thought possible in the past.</span></p>
+							<p class="para">My career thus far has been thanks to my
+															curiosity of what made it all tick. The same curiosity brought
+															me to many different industries where I could satisfy my crave
+															for philomathic technological endeavors.</p>
+							<p class="para">I look forward to making a positive impact on your company.</p>
+						</div>
+						<!-- Why Me Panel -->
+						<div role="tabpanel" class="tab-pane fade" id="why-me-panel">
+							<h4>Make technology work for you</h4>
+							<div class="separator"></div>
+							<p class="para">I believe in technology enabling efficacy,
+															leveraging existing company infrastructure
+															to perform past their theoretical computational limits.
+															Enabling workflows that make a lasting impact on
+															your company.</p>
+							<p class="para">Technology should make your job easier not the opposite.</p>
+							<p class="para">Seamlessly integrating effective IT solutions is my mission.</p>
+						</div>
+				
+					</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- End About Me Section -->
+
+	<!-- Start Services Section -->
+	<section id="services" class="section text-center">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="section-intro">
+						<h2>what i've done</h2>
+						<div class="separator centered"></div>
+						<p class="para">Click on the logos to get more details about individual roles at each respective company.</p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+			<!-- Service No. ( 1 ) -->
+				<div class="service col-md-4 col-sm-6 wow fadeInUp" title="Click on the logos to get more details about individual roles at each respective company" data-wow-duration="1s" data-wow-offset="200">
+					<a href="#bestwestern">
+					<img src="img/employer_icons/best_western.png">
+					<p class="para"></p>
+					<h4>Best Western</h4>
+					<p class="para">Assistant Manager / Onsite IT Lead</p>
+					</a>
+				</div>
+				<!-- Service No. ( 2 ) -->
+				<div class="service col-md-4 col-sm-6 wow fadeInUp" title="Click on the logos to get more details about individual roles at each respective company" data-wow-duration="1s" data-wow-offset="200">
+					<a href="#agwolf">
+					<img src="img/employer_icons/ag_wolf_capital.png">
+					<p class="para"></p>
+					<h4>AG Wolf & Capital</h4>
+					<p class="para">Data Analyst / IT Technician</p>
+					</a>
+				</div>
+				<!-- Service No. ( 3 ) -->
+				<div class="service col-md-4 col-sm-6 wow fadeInUp" title="Click on the logos to get more details about individual roles at each respective company" data-wow-duration="1s" data-wow-offset="200">
+					<a href="#macrotech">
+					<img src="img/employer_icons/macrotech.png">
+					<p class="para"></p>
+					<h4>Macrotech USA</h4>
+					<p class="para">Field IT Technician - Contracted</p>
+					</a>
+				</div>
+				<!-- Service No. ( 4 ) -->
+				<div class="service col-md-4 col-sm-6 wow fadeInUp" title="Click on the logos to get more details about individual roles at each respective company" data-wow-duration="1s" data-wow-offset="200">
+					<a href="#citadel">
+					<img src="img/employer_icons/citadelfm.png">
+					<p class="para"></p>
+					<h4>Citadel FM</h4>
+					<p class="para">Onsite IT Solutions - Alongside</p>
+					</a>
+				</div>
+				<!-- Service No. ( 5 ) -->
+				<div class="service col-md-4 col-sm-6 wow fadeInUp" title="Click on the logos to get more details about individual roles at each respective company" data-wow-duration="1s" data-wow-offset="200">
+					<a href="#greenerco">
+					<img src="img/employer_icons/greener_co.png">
+					<p class="para"></p>
+					<h4>Greener Co</h4>
+					<p class="para">Backend Web Developer</p>
+					</a>
+				</div>
+				<!-- Service No. ( 6 ) -->
+				<div class="service col-md-4 col-sm-6 wow fadeInUp" title="Click on the logos to get more details about individual roles at each respective company" data-wow-duration="1s" data-wow-offset="200">
+					<a href="#forrest">
+					<img src="img/employer_icons/forrest_solutions.png">
+					<p class="para"></p>
+					<h4>Forrest Solutions</h4>
+					<p class="para">Data Analyst / IT Technician - Outsourced</p>
+					</a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- End Services Section -->
+
+	<!-- Start Process Section -->
+	<section id="process" class="section">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="section-intro text-center wow fadeInUp" data-wow-duration="1s" data-wow-offset="200">
+						<h2>How I Do It</h2>
+						<div class="separator centered"></div>
+						<p class="para">Dramatically repurpose low-risk high-yield ideas without robust customer service. Intrinsicly build fully tested total linkage without scalable.</p>
+					</div>
+				</div>
+			</div>
+			<!-- Step 1 -->
+			<div class="row process-step">
+				<div class="col-sm-7">
+					<div class="process-text wow fadeInLeft" data-wow-duration="1s" data-wow-offset="200">
+						<i class="fa fa-bar-chart"></i>
+						<h3>Planning</h3>
+						<div class="separator"></div>
+						<p class="para">Holisticly architect efficient e-markets for clicks-and-mortar innovation.
+														Globally productize cross-platform e-commerce without extensive meta-services. 
+														Completely administrate process-centric customer service via intuitive sources. 
+														Phosfluorescently utilize revolutionary bandwidth rather than leveraged.</p>
+					</div>
+				</div>
+				<div class="col-sm-5">
+					<div class="process-img wow fadeInRight" data-wow-duration="1s" data-wow-offset="200">
+						<img src="img/process/01.jpg" alt="Planning" class="img-responsive">
+					</div>
+				</div>
+			</div>
+			<!-- Step 2 -->
+			<div class="row process-step">
+				<div class="col-sm-7 col-sm-push-5">
+					<div class="process-text wow fadeInRight" data-wow-duration="1s" data-wow-offset="200">
+						<i class="fa fa-pencil"></i>
+						<h3>Designing</h3>
+						<div class="separator"></div>
+						<p class="para">Completely transition enterprise imperatives and virtual methods of empowerment. Authoritatively drive ethical catalysts for change for impactful schemas. Assertively evisculate an expanded array of internal or "organic" sources before.</p>
+					</div>
+				</div>
+				<div class="col-sm-5 col-sm-pull-7">
+					<div class="process-img wow fadeInLeft" data-wow-duration="1s" data-wow-offset="200">
+						<img src="img/process/02.jpg" alt="Designing" class="img-responsive">
+					</div>
+				</div>				
+			</div>
+			<!-- Step 3 -->
+			<div class="row process-step">
+				<div class="col-sm-7">
+					<div class="process-text wow fadeInLeft" data-wow-duration="1s" data-wow-offset="200">
+						<i class="fa fa-code"></i>
+						<h3>Development</h3>
+						<div class="separator"></div>
+						<p class="para">Energistically utilize just in time applications vis-a-vis intuitive best practices. Quickly communicate enterprise scenarios rather than collaborative results. Completely develop client-centric scenarios whereas viral ROI. Compellingly mesh cross-platform products.</p>
+					</div>
+				</div>
+				<div class="col-sm-5">
+					<div class="process-img wow fadeInRight" data-wow-duration="1s" data-wow-offset="200">
+						<img src="img/process/03.jpg" alt="Development" class="img-responsive">
+					</div>
+				</div>
+			</div>
+			<!-- Step 4 -->
+			<div class="row process-step">
+				<div class="col-sm-7 col-sm-push-5">
+					<div class="process-text wow fadeInRight" data-wow-duration="1s" data-wow-offset="200">
+						<i class="fa fa-tv"></i>
+						<h3>Production</h3>
+						<div class="separator"></div>
+						<p class="para">Intrinsicly scale cross-media collaboration and idea-sharing for dynamic communities. Collaboratively underwhelm worldwide relationships after reliable mindshare. Professionally foster granular technology for 2.0 testing procedures. Interactively iterate resource-leveling growth strategies.</p>
+					</div>
+				</div>
+				<div class="col-sm-5 col-sm-pull-7">
+					<div class="process-img wow fadeInLeft" data-wow-duration="1s" data-wow-offset="200">
+						<img src="img/process/04.jpg" alt="Production" class="img-responsive">
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- End Process Section -->
+
+	<!-- Start Fun Facts Section -->
+	<section id="fun-facts" class="section text-center">
+		<div class="overlay"></div>
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="section-intro">
+						<h2>fun facts</h2>
+						<div class="separator centered"></div>
+						<p class="para">Synergistically create extensive intellectual capital rather than clicks-and-mortar materials.</p>
+					</div>
+				</div>	
+			</div>
+			<div class="row">
+			<!-- Fact No. ( 1 ) -->
+				<div class="fact col-md-3 col-sm-6">
+					<i class="fa fa-tasks"></i>
+					<span class="timer" data-from="0" data-to="215" data-speed="3000"></span>
+					<div class="separator centered"></div>
+					<p>projects done</p>
+				</div>
+				<!-- Fact No. ( 2 ) -->
+				<div class="fact col-md-3 col-sm-6">
+					<i class="fa fa-users"></i>
+					<span class="timer" data-from="0" data-to="650" data-speed="3000"></span>
+					<div class="separator centered"></div>
+					<p>happy clients</p>
+				</div>
+				<!-- Fact No. ( 3 ) -->
+				<div class="fact col-md-3 col-sm-6">
+					<i class="fa fa-clock-o"></i>
+					<span class="timer" data-from="0" data-to="3475" data-speed="3000"></span>
+					<div class="separator centered"></div>
+					<p>hours worked</p>
+				</div>
+				<!-- Fact No. ( 4 ) -->
+				<div class="fact col-md-3 col-sm-6">
+					<i class="fa fa-coffee"></i>
+					<span class="timer" data-from="0" data-to="781" data-speed="3000"></span>
+					<div class="separator centered"></div>
+					<p>cups of coffee</p>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- End Fun Facts Section -->
+
+
+	<!-- Start Experiences Section -->
+	<section id="experiences" class="section text-center">
+		<div class="container"> <div class="row">
+				<div class="col-xs-12">
+					<div class="section-intro">
+						<h2>My Experiences</h2>
+						<div class="separator centered"></div>
+						<p class="para">Objectively cultivate equity invested customer service without intermandated methodologies. Intrinsicly productivate interactive strategic theme areas via goal-oriented.</p>
+						<section id="citadel"></section>
+					</div>
+				</div>
+			</div>
+			<!-- Start Timeline -->
+			<div class="timeline-wrapper">
+				<div class="timeline">
+					<!-- Event ( 1 ) -->
+					<div class="event row">
+						<div class="col-sm-3 col-xs-12 event-left wow fadeInUp" data-wow-duration="1s" data-wow-offset="200">
+							<h4>Feb. 2023</h4>
+							<i class="fa fa-diamond fa-fw"></i>
+						</div>
+						<div class="col-sm-9 col-xs-12 event-right wow fadeInUp" data-wow-duration="1s" data-wow-offset="200">
+							<div class="content-wrapper">
+								<section id="macrotech"></section>
+								<h4>Citadel FM</h4>
+								<div class="separator"></div>
+								<p class="job-title">UI / UX Developer</p>
+								<ul class="bullets">
+										
+										<li>
+								<p class="para">1</p>
+										</li><li>
+								<p class="para">2</p>
+										</li><li>
+								<p class="para">3</p>
+										</li>
+				
+										
+					 				</ul>
+							</div>	
+						</div>
+					</div>
+					<!-- Event ( 2 ) -->
+					<div class="event row">
+						<div class="col-sm-3 col-xs-12 event-left wow fadeInUp" data-wow-duration="1s" data-wow-offset="200">
+							<h4>Jan. 2023</h4>
+							<i class="fa fa-trophy fa-fw"></i>
+						</div>
+						<div class="col-sm-9 col-xs-12 event-right wow fadeInUp" data-wow-duration="1s" data-wow-offset="200">
+							<div class="content-wrapper">
+								<section id="bestwestern"></section>
+								<h4>Macrotech</h4>
+								<div class="separator"></div>
+								<p class="job-title">UI / UX Developer</p>
+								<ul class="bullets">
+										
+										<li>
+								<p class="para">1</p>
+										</li><li>
+								<p class="para">2</p>
+										</li><li>
+								<p class="para">3</p>
+										</li>
+				
+										
+					 				</ul>
+							</div>	
+						</div>
+					</div>
+					<!-- Event ( 3 ) -->
+					<div class="event row">
+						<div class="col-sm-3 col-xs-12 event-left wow fadeInUp" data-wow-duration="1s" data-wow-offset="200">
+							<h4>Sept. 2022</h4>
+							<i class="fa fa-lightbulb-o fa-fw"></i>
+						</div>
+						<div class="col-sm-9 col-xs-12 event-right wow fadeInUp" data-wow-duration="1s" data-wow-offset="200">
+							<div class="content-wrapper">
+								<section id="greenerco"></section>
+								<h4>Best Western</h4>
+								<div class="separator"></div>
+								<p class="job-title">Front-End Designer</p>
+								<ul class="bullets">
+										
+										<li>
+								<p class="para">1</p>
+										</li><li>
+								<p class="para">2</p>
+										</li><li>
+								<p class="para">3</p>
+										</li>
+				
+										
+					 				</ul>
+							</div>	
+						</div>
+					</div>
+					<!-- Event ( 4 ) -->
+					<div class="event row">
+						<div class="col-sm-3 col-xs-12 event-left wow fadeInUp" data-wow-duration="1s" data-wow-offset="200">
+							<h4>July 2022</h4>
+							<i class="fa fa-suitcase fa-fw"></i>
+						</div>
+						<div class="col-sm-9 col-xs-12 event-right wow fadeInUp" data-wow-duration="1s" data-wow-offset="200">
+							<div class="content-wrapper">
+								<section id="forrest"></section>
+								<h4>Greener co</h4>
+								<div class="separator"></div>
+								<p class="job-title"> IT Technician </p>
+								<ul class="bullets">
+										
+										<li>
+								<p class="para">1</p>
+										</li><li>
+								<p class="para">2</p>
+										</li><li>
+								<p class="para">3</p>
+										</li>
+				
+										
+					 				</ul>
+							</div>	
+						</div>
+					</div>
+					<!-- Event ( 5 ) -->
+					<div class="event row">
+						<div class="col-sm-3 col-xs-12 event-left wow fadeInUp" data-wow-duration="1s" data-wow-offset="200">
+							<h4>July 2020</h4>
+							<i class="fa fa-certificate fa-fw"></i>
+						</div>
+						<div class="col-sm-9 col-xs-12 event-right wow fadeInUp" data-wow-duration="1s" data-wow-offset="200">
+							<div class="content-wrapper">
+								<section id="agwolf"></section>
+								<h4>Forrest Solutions</h4>
+								<div class="separator"></div>
+								<p class="job-title">Graphic Design Diploma.</p>
+								<ul class="bullets">
+										
+										<li>
+								<p class="para">1</p>
+										</li><li>
+								<p class="para">2</p>
+										</li><li>
+								<p class="para">3</p>
+										</li>
+				
+										
+					 				</ul>
+							</div>	
+						</div>
+					</div>
+					<!-- Event ( 6 ) -->
+					<div class="event graduation row">
+						<div class="col-sm-3 col-xs-12 event-left wow fadeInUp" data-wow-duration="1s" data-wow-offset="200">
+							<h4>June 2016</h4>
+							<i class="fa fa-graduation-cap fa-fw"></i>
+						</div>
+						<div class="col-sm-9 col-xs-12 event-right last-event wow fadeInUp" data-wow-duration="1s" data-wow-offset="200">
+							<div class="content-wrapper">
+								<h4>AG Wolf Capital</h4>
+								<div class="separator"></div>
+								<p class="job-title">Faculty of Engineering</p>
+									
+								<ul class="bullets">
+										
+										<li>
+								<p class="para">1</p>
+										</li><li>
+								<p class="para">2</p>
+										</li><li>
+								<p class="para">3</p>
+										</li>
+				
+										
+					 				</ul>
+							</div>	
+						</div>
+					</div>
+				</div>
+			</div> <!-- end timeline -->
+		</div>
+	</section>
+	<!-- end experiences section -->
+
+	<!-- start skills section -->
+	<section id="skills" class="section text-center">
+		<div class="overlay"></div>
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="section-intro">
+						<h2>my powerful skills</h2>
+						<div class="separator centered"></div>
+						<p class="para">continually transform process-centric systems rather than compelling growth strategies. energistically streamline low-risk high-yield supply chains via scalable intellectual capital. dramatically benchmark customer.</p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+			<!-- skill no. ( 1 ) -->
+				<div class="skill col-md-4 col-sm-6">
+					<div class="chart" data-percent="90">
+						<span class="skill-timer" data-from="0" data-to="90" data-speed="1500"></span>
+						<span class="percent">%</span>
+					</div>
+					<h3>html5</h3>
+					<p class="para">collaboratively reintermediate optimal growth strategies whereas cross.</p>
+				</div>
+				<!-- skill no. ( 2 ) -->
+				<div class="skill col-md-4 col-sm-6">
+					<div class="chart" data-percent="95">
+						<span class="skill-timer" data-from="0" data-to="95" data-speed="1500"></span>
+						<span class="percent">%</span>
+					</div>
+					<h3>css3</h3>
+					<p class="para">objectively integrate viral manufactured products for bleeding-edge.</p>
+				</div>
+				<!-- skill no. ( 3 ) -->
+				<div class="skill col-md-4 col-sm-6">
+					<div class="chart" data-percent="70">
+						<span class="skill-timer" data-from="0" data-to="70" data-speed="1500"></span>
+						<span class="percent">%</span>
+					</div>
+					<h3>javascript</h3>
+					<p class="para">completely actualize clicks-and-mortar systems for bleeding-edge data.</p>
+				</div>
+				<!-- skill no. ( 4 ) -->
+				<div class="skill col-md-4 col-sm-6">
+					<div class="chart" data-percent="75">
+						<span class="skill-timer" data-from="0" data-to="75" data-speed="1500"></span>
+						<span class="percent">%</span>
+					</div>
+					<h3>jquery</h3>
+					<p class="para">monotonectally incubate front-end innovation with emerging methods.</p>
+				</div>
+				<!-- skill no. ( 5 ) -->
+				<div class="skill col-md-4 col-sm-6">
+					<div class="chart" data-percent="85">
+						<span class="skill-timer" data-from="0" data-to="85" data-speed="1500"></span>
+						<span class="percent">%</span>
+					</div>
+					<h3>bootstrap</h3>
+					<p class="para">professionally facilitate process-centric customer service vis-a-vis premium.</p>
+				</div>
+				<!-- skill no. ( 6 ) -->
+				<div class="skill col-md-4 col-sm-6">
+					<div class="chart" data-percent="60">
+						<span class="skill-timer" data-from="0" data-to="60" data-speed="1500"></span>
+						<span class="percent">%</span>
+					</div>
+					<h3>wordpress</h3>
+					<p class="para">seamlessly integrate backward-compatible information and plug-and-play.</p>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- end skills section -->
+
+	<!-- start portfolio section -->
+	<section id="portfolio" class="section text-center">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="section-intro">
+						<h2>check out my works</h2>
+						<div class="separator centered"></div>
+						<p class="para">intrinsicly conceptualize real-time information without cross functional potentialities. conveniently impact integrated benefits and ubiquitous paradigms. dynamically architect.</p>
+					</div>
+				</div>
+			</div>
+			<div class="controls">
+				<button class="filter btn btn-custom" data-filter="all" data-toggle="tooltip" data-placement="top" title="12">all</button>
+				<button class="filter btn btn-custom" data-filter=".design" data-toggle="tooltip" data-placement="top" title="4">design</button>
+				<button class="filter btn btn-custom" data-filter=".development" data-toggle="tooltip" data-placement="top" title="5">development</button>
+				<button class="filter btn btn-custom" data-filter=".branding" data-toggle="tooltip" data-placement="top" title="5">branding</button>
+			</div>
+			<div id="container" class="row">
+				<!-- project 1 -->
+				<div class="mix design branding col-md-4 col-sm-6 col-xs-12" data-my-order="1">
+					<div class="project" data-toggle="modal" data-target="#modal">
+						<div class="project-img-wrapper">
+							<img class="center-block img-responsive" src="img/portfolio/01.jpg" alt="project-1">
+						</div>
+						<div class="img-overlay">
+							<div class="overlay-text">
+								<h4>project name</h4>
+								<p>design / branding</p>
+							</div>
+						</div>
+					</div>	
+					<!-- modal -->
+					<div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-labelledby="label_1">
+					  <div class="modal-dialog" role="document">
+					    <div class="modal-content">
+					      <div class="modal-header">
+					        <button type="button" class="close" data-dismiss="modal" aria-label="close"><span aria-hidden="true">&times;</span></button>
+					        <h4 class="modal-title" id="label_1">project name</h4>
+					      </div>
+					      <div class="modal-body">
+					        <img class="center-block img-responsive thumbnail" src="img/portfolio/01.jpg" alt="project-1">
+					        <h4>project name</h4>
+					        <div class="separator"></div>
+					        <p class="para subtitle">( design, branding )</p>
+					        <p class="para project-description">energistically develop reliable content for leading-edge networks. dramatically enhance optimal testing procedures and multimedia based e-commerce. holisticly syndicate standardized human capital without extensible experiences. <br> efficiently synthesize client-based solutions through resource sucking systems. proactively visualize mission-critical paradigms before competitive value. efficiently disintermediate resource sucking e-markets via visionary e-markets. efficiently.</p>
+					        <a href="index.html#" class="btn btn-custom btn-custom-reverse">live preview</a>
+					        <a href="index.html#contact" class="btn btn-custom dark scroll-link" data-dismiss="modal">start project</a>
+					      </div>
+					    </div>
+					  </div>
+					</div>  <!-- end modal -->
+				</div>
+				<!-- project 2 -->
+				<div class="mix branding col-md-4 col-sm-6 col-xs-12" data-my-order="2">
+					<div class="project" data-toggle="modal" data-target="#modal-2">
+						<div class="project-img-wrapper">
+							<img class="center-block img-responsive" src="img/portfolio/02.jpg" alt="project-2">
+						</div>
+						<div class="img-overlay">
+							<div class="overlay-text">
+								<h4>project name</h4>
+								<p>branding</p>
+							</div>
+						</div>
+					</div>	
+					<!-- modal -->
+					<div class="modal fade" id="modal-2" tabindex="-1" role="dialog" aria-labelledby="label_2">
+					  <div class="modal-dialog" role="document">
+					    <div class="modal-content">
+					      <div class="modal-header">
+					        <button type="button" class="close" data-dismiss="modal" aria-label="close"><span aria-hidden="true">&times;</span></button>
+					        <h4 class="modal-title" id="label_2">project name</h4>
+					      </div>
+					      <div class="modal-body">
+					        <img class="center-block img-responsive thumbnail" src="img/portfolio/02.jpg" alt="project-2">
+					        <h4>project name</h4>
+					        <div class="separator"></div>
+					        <p class="para subtitle">( branding )</p>
+					        <p class="para project-description">professionally procrastinate cross-platform roi without ubiquitous intellectual capital. holisticly customize highly efficient "outside the box" thinking before seamless imperatives. <br> efficiently develop customized manufactured products with inexpensive web services. dynamically grow unique roi with dynamic action items. efficiently morph superior roi via out-of-the-box systems. professionally foster maintainable process improvements.</p>
+					        <a href="index.html#" class="btn btn-custom btn-custom-reverse">live preview</a>
+					        <a href="index.html#contact" class="btn btn-custom dark scroll-link" data-dismiss="modal">start project</a>
+					      </div>
+					    </div>
+					  </div>
+					</div>  <!-- end modal -->
+				</div>
+				<!-- project 3 -->
+				<div class="mix design development col-md-4 col-sm-6 col-xs-12" data-my-order="3">
+					<div class="project" data-toggle="modal" data-target="#modal-3">
+						<div class="project-img-wrapper">
+							<img class="center-block img-responsive" src="img/portfolio/03.jpg" alt="project-3">
+						</div>
+						<div class="img-overlay">
+							<div class="overlay-text">
+								<h4>project name</h4>
+								<p>design / development</p>
+							</div>
+						</div>
+					</div>	
+					<!-- modal -->
+					<div class="modal fade" id="modal-3" tabindex="-1" role="dialog" aria-labelledby="label_3">
+					  <div class="modal-dialog" role="document">
+					    <div class="modal-content">
+					      <div class="modal-header">
+					        <button type="button" class="close" data-dismiss="modal" aria-label="close"><span aria-hidden="true">&times;</span></button>
+					        <h4 class="modal-title" id="label_3">project name</h4>
+					      </div>
+					      <div class="modal-body">
+					        <img class="center-block img-responsive thumbnail" src="img/portfolio/03.jpg" alt="project-3">
+					        <h4>project name</h4>
+					        <div class="separator"></div>
+					        <p class="para subtitle">( design, development )</p>
+					        <p class="para project-description">efficiently reinvent 2.0 manufactured products after client-focused relationships. distinctively architect enterprise-wide information vis-a-vis one-to-one vortals. <br> collaboratively incentivize 2.0 interfaces before next-generation scenarios. proactively repurpose backward-compatible schemas for progressive e-commerce. intrinsicly whiteboard resource-leveling methods of empowerment before out-of-the-box quality vectors. assertively deliver multidisciplinary meta-services for diverse technologies. dramatically leverage.</p>
+					        <a href="index.html#" class="btn btn-custom btn-custom-reverse">live preview</a>
+					        <a href="index.html#contact" class="btn btn-custom dark scroll-link" data-dismiss="modal">start project</a>
+					      </div>
+					    </div>
+					  </div>
+					</div>  <!-- end modal -->
+				</div>
+				<!-- project 4 -->
+				<div class="mix branding col-md-4 col-sm-6 col-xs-12" data-my-order="4">
+					<div class="project" data-toggle="modal" data-target="#modal-4">
+						<div class="project-img-wrapper">
+							<img class="center-block img-responsive" src="img/portfolio/04.jpg" alt="project-4">
+						</div>
+						<div class="img-overlay">
+							<div class="overlay-text">
+								<h4>project name</h4>
+								<p>branding</p>
+							</div>
+						</div>
+					</div>	
+					<!-- modal -->
+					<div class="modal fade" id="modal-4" tabindex="-1" role="dialog" aria-labelledby="label_4">
+					  <div class="modal-dialog" role="document">
+					    <div class="modal-content">
+					      <div class="modal-header">
+					        <button type="button" class="close" data-dismiss="modal" aria-label="close"><span aria-hidden="true">&times;</span></button>
+					        <h4 class="modal-title" id="label_4">project name</h4>
+					      </div>
+					      <div class="modal-body">
+					        <img class="center-block img-responsive thumbnail" src="img/portfolio/04.jpg" alt="project-4">
+					        <h4>project name</h4>
+					        <div class="separator"></div>
+					        <p class="para subtitle">( branding )</p>
+					        <p class="para project-description">conveniently iterate prospective bandwidth whereas resource-leveling e-markets. conveniently architect process-centric web services vis-a-vis adaptive content. appropriately seize cooperative e-services before focused relationships. <br> collaboratively innovate extensible innovation with future-proof partnerships. distinctively provide access to low-risk high-yield methodologies after enabled internal or "organic" sources.objectively myocardinate sticky processes rather than.</p>
+					        <a href="index.html#" class="btn btn-custom btn-custom-reverse">live preview</a>
+					        <a href="index.html#contact" class="btn btn-custom dark scroll-link" data-dismiss="modal">start project</a>
+					      </div>
+					    </div>
+					  </div>
+					</div>  <!-- end modal -->
+				</div>
+				<!-- project 5 -->
+				<div class="mix design col-md-4 col-sm-6 col-xs-12" data-my-order="5">
+					<div class="project" data-toggle="modal" data-target="#modal-5">
+						<div class="project-img-wrapper">
+							<img class="center-block img-responsive" src="img/portfolio/05.jpg" alt="project-5">
+						</div>
+						<div class="img-overlay">
+							<div class="overlay-text">
+								<h4>project name</h4>
+								<p>design</p>
+							</div>
+						</div>
+					</div>	
+					<!-- modal -->
+					<div class="modal fade" id="modal-5" tabindex="-1" role="dialog" aria-labelledby="label_5">
+					  <div class="modal-dialog" role="document">
+					    <div class="modal-content">
+					      <div class="modal-header">
+					        <button type="button" class="close" data-dismiss="modal" aria-label="close"><span aria-hidden="true">&times;</span></button>
+					        <h4 class="modal-title" id="label_5">project name</h4>
+					      </div>
+					      <div class="modal-body">
+					        <img class="center-block img-responsive thumbnail" src="img/portfolio/05.jpg" alt="project-5">
+					        <h4>project name</h4>
+					        <div class="separator"></div>
+					        <p class="para subtitle">( design )</p>
+					        <p class="para project-description">completely leverage other's unique schemas without quality roi. interactively reintermediate proactive total linkage with client-centered leadership. globally implement technically sound catalysts for change through 2.0 networks. <br> professionally empower stand-alone networks rather than highly efficient imperatives. holisticly productivate bleeding-edge bandwidth whereas alternative infomediaries. proactively empower technically sound expertise with.</p>
+					        <a href="index.html#" class="btn btn-custom btn-custom-reverse">live preview</a>
+					        <a href="index.html#contact" class="btn btn-custom dark scroll-link" data-dismiss="modal">start project</a>
+					      </div>
+					    </div>
+					  </div>
+					</div>  <!-- end modal -->
+				</div>
+				<!-- project 6 -->
+				<div class="mix development col-md-4 col-sm-6 col-xs-12" data-my-order="6">
+					<div class="project" data-toggle="modal" data-target="#modal-6">
+						<div class="project-img-wrapper">
+							<img class="center-block img-responsive" src="img/portfolio/06.jpg" alt="project-6">
+						</div>
+						<div class="img-overlay">
+							<div class="overlay-text">
+								<h4>project name</h4>
+								<p>development</p>
+							</div>
+						</div>
+					</div>	
+					<!-- modal -->
+					<div class="modal fade" id="modal-6" tabindex="-1" role="dialog" aria-labelledby="label_6">
+					  <div class="modal-dialog" role="document">
+					    <div class="modal-content">
+					      <div class="modal-header">
+					        <button type="button" class="close" data-dismiss="modal" aria-label="close"><span aria-hidden="true">&times;</span></button>
+					        <h4 class="modal-title" id="label_6">project name</h4>
+					      </div>
+					      <div class="modal-body">
+					        <img class="center-block img-responsive thumbnail" src="img/portfolio/06.jpg" alt="project-6">
+					        <h4>project name</h4>
+					        <div class="separator"></div>
+					        <p class="para subtitle">( development )</p>
+					        <p class="para project-description">intrinsicly conceptualize real-time information without cross functional potentialities. conveniently impact integrated benefits and ubiquitous paradigms. dynamically architect.
+					        <br>
+					        conveniently embrace fully researched niches for professional internal or.</p>
+					        <a href="index.html#" class="btn btn-custom btn-custom-reverse">live preview</a>
+					        <a href="index.html#contact" class="btn btn-custom dark scroll-link" data-dismiss="modal">start project</a>
+					      </div>
+					    </div>
+					  </div>
+					</div>  <!-- end modal -->
+				</div>
+				<!-- project 7 -->
+				<div class="mix branding col-md-4 col-sm-6 col-xs-12" data-my-order="7">
+					<div class="project" data-toggle="modal" data-target="#modal-7">
+						<div class="project-img-wrapper">
+							<img class="center-block img-responsive" src="img/portfolio/07.jpg" alt="project-7">
+						</div>
+						<div class="img-overlay">
+							<div class="overlay-text">
+								<h4>project name</h4>
+								<p>branding</p>
+							</div>
+						</div>
+					</div>	
+					<!-- modal -->
+					<div class="modal fade" id="modal-7" tabindex="-1" role="dialog" aria-labelledby="label_7">
+					  <div class="modal-dialog" role="document">
+					    <div class="modal-content">
+					      <div class="modal-header">
+					        <button type="button" class="close" data-dismiss="modal" aria-label="close"><span aria-hidden="true">&times;</span></button>
+					        <h4 class="modal-title" id="label_7">project name</h4>
+					      </div>
+					      <div class="modal-body">
+					        <img class="center-block img-responsive thumbnail" src="img/portfolio/07.jpg" alt="project-7">
+					        <h4>project name</h4>
+					        <div class="separator"></div>
+					        <p class="para subtitle">( branding )</p>
+					        <p class="para project-description">assertively negotiate cross-media mindshare and process-centric roi. intrinsicly maximize premier total linkage after virtual synergy. uniquely leverage other's future-proof networks rather than client-focused leadership skills. <br> progressively matrix technically sound expertise for alternative users. intrinsicly pontificate goal-oriented bandwidth vis-a-vis timely infrastructures. continually formulate vertical core competencies rather than bricks-and-clicks.</p>
+					        <a href="index.html#" class="btn btn-custom btn-custom-reverse">live preview</a>
+					        <a href="index.html#contact" class="btn btn-custom dark scroll-link" data-dismiss="modal">start project</a>
+					      </div>
+					    </div>
+					  </div>
+					</div>  <!-- end modal -->
+				</div>
+				<!-- project 8 -->
+				<div class="mix development col-md-4 col-sm-6 col-xs-12" data-my-order="8">
+					<div class="project" data-toggle="modal" data-target="#modal-8">
+						<div class="project-img-wrapper">
+							<img class="center-block img-responsive" src="img/portfolio/08.jpg" alt="project-8">
+						</div>
+						<div class="img-overlay">
+							<div class="overlay-text">
+								<h4>project name</h4>
+								<p>development</p>
+							</div>
+						</div>
+					</div>	
+					<!-- modal -->
+					<div class="modal fade" id="modal-8" tabindex="-1" role="dialog" aria-labelledby="label_8">
+					  <div class="modal-dialog" role="document">
+					    <div class="modal-content">
+					      <div class="modal-header">
+					        <button type="button" class="close" data-dismiss="modal" aria-label="close"><span aria-hidden="true">&times;</span></button>
+					        <h4 class="modal-title" id="label_8">project name</h4>
+					      </div>
+					      <div class="modal-body">
+					        <img class="center-block img-responsive thumbnail" src="img/portfolio/08.jpg" alt="project-8">
+					        <h4>project name</h4>
+					        <div class="separator"></div>
+					        <p class="para subtitle">( development )</p>
+					        <p class="para project-description">intrinsicly conceptualize real-time information without cross functional potentialities. conveniently impact integrated benefits and ubiquitous paradigms. dynamically architect. <br>
+					        synergistically implement accurate mindshare before scalable synergy. assertively pursue compelling infrastructures rather than dynamic "outside the box".</p>
+					        <a href="index.html#" class="btn btn-custom btn-custom-reverse">live preview</a>
+					        <a href="index.html#contact" class="btn btn-custom dark scroll-link" data-dismiss="modal">start project</a>
+					      </div>
+					    </div>
+					  </div>
+					</div>  <!-- end modal -->
+				</div>
+				<!-- project 9 -->
+				<div class="mix development col-md-4 col-sm-6 col-xs-12" data-my-order="9">
+					<div class="project" data-toggle="modal" data-target="#modal-9">
+						<div class="project-img-wrapper">
+							<img class="center-block img-responsive" src="img/portfolio/09.jpg" alt="project-9">
+						</div>
+						<div class="img-overlay">
+							<div class="overlay-text">
+								<h4>project name</h4>
+								<p>development</p>
+							</div>
+						</div>
+					</div>	
+					<!-- modal -->
+					<div class="modal fade" id="modal-9" tabindex="-1" role="dialog" aria-labelledby="label_9">
+					  <div class="modal-dialog" role="document">
+					    <div class="modal-content">
+					      <div class="modal-header">
+					        <button type="button" class="close" data-dismiss="modal" aria-label="close"><span aria-hidden="true">&times;</span></button>
+					        <h4 class="modal-title" id="label_9">project name</h4>
+					      </div>
+					      <div class="modal-body">
+					        <img class="center-block img-responsive thumbnail" src="img/portfolio/09.jpg" alt="project-9">
+					        <h4>project name</h4>
+					        <div class="separator"></div>
+					        <p class="para subtitle">( development )</p>
+					        <p class="para project-description">intrinsicly conceptualize real-time information without cross functional potentialities. conveniently impact integrated benefits and ubiquitous paradigms. dynamically architect. <br>
+					        synergistically implement accurate mindshare before scalable synergy. assertively pursue compelling infrastructures rather than dynamic "outside the box".</p>
+					        <a href="index.html#" class="btn btn-custom btn-custom-reverse">live preview</a>
+					        <a href="index.html#contact" class="btn btn-custom dark scroll-link" data-dismiss="modal">start project</a>
+					      </div>
+					    </div>
+					  </div>
+					</div>  <!-- end modal -->
+				</div>
+				<!-- project 10 -->
+				<div class="mix development col-md-4 col-sm-6 col-xs-12" data-my-order="10">
+					<div class="project" data-toggle="modal" data-target="#modal-10">
+						<div class="project-img-wrapper">
+							<img class="center-block img-responsive" src="img/portfolio/10.jpg" alt="project-10">
+						</div>
+						<div class="img-overlay">
+							<div class="overlay-text">
+								<h4>project name</h4>
+								<p>development</p>
+							</div>
+						</div>
+					</div>	
+					<!-- modal -->
+					<div class="modal fade" id="modal-10" tabindex="-1" role="dialog" aria-labelledby="label_10">
+					  <div class="modal-dialog" role="document">
+					    <div class="modal-content">
+					      <div class="modal-header">
+					        <button type="button" class="close" data-dismiss="modal" aria-label="close"><span aria-hidden="true">&times;</span></button>
+					        <h4 class="modal-title" id="label_10">project name</h4>
+					      </div>
+					      <div class="modal-body">
+					        <img class="center-block img-responsive thumbnail" src="img/portfolio/10.jpg" alt="project-10">
+					        <h4>project name</h4>
+					        <div class="separator"></div>
+					        <p class="para subtitle">( development )</p>
+					        <p class="para project-description">intrinsicly conceptualize real-time information without cross functional potentialities. conveniently impact integrated benefits and ubiquitous paradigms. dynamically architect. <br>
+					        synergistically implement accurate mindshare before scalable synergy. assertively pursue compelling infrastructures rather than dynamic "outside the box".</p>
+					        <a href="index.html#" class="btn btn-custom btn-custom-reverse">live preview</a>
+					        <a href="index.html#contact" class="btn btn-custom dark scroll-link" data-dismiss="modal">start project</a>
+					      </div>
+					    </div>
+					  </div>
+					</div>  <!-- end modal -->
+				</div>
+				<!-- project 11 -->
+				<div class="mix branding col-md-4 col-sm-6 col-xs-12" data-my-order="11">
+					<div class="project" data-toggle="modal" data-target="#modal-11">
+						<div class="project-img-wrapper">
+							<img class="center-block img-responsive" src="img/portfolio/11.jpg" alt="project-11">
+						</div>
+						<div class="img-overlay">
+							<div class="overlay-text">
+								<h4>project name</h4>
+								<p>branding</p>
+							</div>
+						</div>
+					</div>	
+					<!-- modal -->
+					<div class="modal fade" id="modal-11" tabindex="-1" role="dialog" aria-labelledby="label_11">
+					  <div class="modal-dialog" role="document">
+					    <div class="modal-content">
+					      <div class="modal-header">
+					        <button type="button" class="close" data-dismiss="modal" aria-label="close"><span aria-hidden="true">&times;</span></button>
+					        <h4 class="modal-title" id="label_11">project name</h4>
+					      </div>
+					      <div class="modal-body">
+					        <img class="center-block img-responsive thumbnail" src="img/portfolio/11.jpg" alt="project-11">
+					        <h4>project name</h4>
+					        <div class="separator"></div>
+					        <p class="para subtitle">( branding )</p>
+					        <p class="para project-description">assertively negotiate cross-media mindshare and process-centric roi. intrinsicly maximize premier total linkage after virtual synergy. uniquely leverage other's future-proof networks rather than client-focused leadership skills. <br> progressively matrix technically sound expertise for alternative users. intrinsicly pontificate goal-oriented bandwidth vis-a-vis timely infrastructures. continually formulate vertical core competencies rather than bricks-and-clicks.</p>
+					        <a href="index.html#" class="btn btn-custom btn-custom-reverse">live preview</a>
+					        <a href="index.html#contact" class="btn btn-custom dark scroll-link" data-dismiss="modal">start project</a>
+					      </div>
+					    </div>
+					  </div>
+					</div>  <!-- end modal -->
+				</div>
+				<!-- project 12 -->
+				<div class="mix design col-md-4 col-sm-6 col-xs-12" data-my-order="12">
+					<div class="project" data-toggle="modal" data-target="#modal-12">
+						<div class="project-img-wrapper">
+							<img class="center-block img-responsive" src="img/portfolio/12.jpg" alt="project-12">
+						</div>
+						<div class="img-overlay">
+							<div class="overlay-text">
+								<h4>project name</h4>
+								<p>design</p>
+							</div>
+						</div>
+					</div>	
+					<!-- modal -->
+					<div class="modal fade" id="modal-12" tabindex="-1" role="dialog" aria-labelledby="label_12">
+					  <div class="modal-dialog" role="document">
+					    <div class="modal-content">
+					      <div class="modal-header">
+					        <button type="button" class="close" data-dismiss="modal" aria-label="close"><span aria-hidden="true">&times;</span></button>
+					        <h4 class="modal-title" id="label_12">project name</h4>
+					      </div>
+					      <div class="modal-body">
+					        <img class="center-block img-responsive thumbnail" src="img/portfolio/12.jpg" alt="project-12">
+					        <h4>project name</h4>
+					        <div class="separator"></div>
+					        <p class="para subtitle">( design )</p>
+					        <p class="para project-description">completely leverage other's unique schemas without quality roi. interactively reintermediate proactive total linkage with client-centered leadership. globally implement technically sound catalysts for change through 2.0 networks. <br> professionally empower stand-alone networks rather than highly efficient imperatives. holisticly productivate bleeding-edge bandwidth whereas alternative infomediaries. proactively empower technically sound expertise with.</p>
+					        <a href="index.html#" class="btn btn-custom btn-custom-reverse">live preview</a>
+					        <a href="index.html#contact" class="btn btn-custom dark scroll-link" data-dismiss="modal">start project</a>
+					      </div>
+					    </div>
+					  </div>
+					</div>  <!-- end modal -->
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-12 interested">
+					<h2 class="wow fadeinup" data-wow-duration="1s" data-wow-offset="200">interested?</h2>
+					<div class="separator centered wow fadeinup" data-wow-duration="1s" data-wow-offset="200"></div>
+					<p class="para wow fadeinup" data-wow-duration="1s" data-wow-offset="200">intrinsicly conceptualize real-time information without cross functional potentialities. <br>synergistically implement accurate mindshare before scalable synergy.</p>
+					<a href="index.html#contact" class=" scroll-link btn btn-custom dark wow bouncein" data-wow-duration="0.6s" data-wow-offset="200">let's go!</a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- end portfolio section -->
+
+	<!-- start testimonials section -->
+	<section id="testimonials" class="section text-center">
+		<div class="overlay"></div>
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="section-intro">
+						<h2>what my lovely clients say</h2>
+						<div class="separator centered"></div>
+						<p class="para">synergistically create extensive intellectual capital rather than clicks-and-mortar materials.</p>
+					</div>
+				</div>	
+			</div>
+			<!-- start carousel -->
+			<div id="carousel" class="carousel slide" data-ride="carousel">
+				<!-- items wrapper -->
+				<div class="carousel-inner" role="listbox">
+					<!-- client no. 1 -->
+					<div class="item row active">
+						<div class="client-details">
+							<img class="img-circle img-responsive" src="img/clients/client-1.jpg" alt="client 1">
+							<h4>ahmed beheiry</h4>
+						</div>
+						<p class="testimonial-text para col-sm-8 col-sm-offset-2 col-xs-12">completely evisculate client-based models before compelling data. competently myocardinate cooperative best practices via out-of-the-box convergence. objectively empower synergistic materials via client-centered action items. compellingly empower flexible.</p>
+					</div>
+					<!-- client no. 2 -->
+					<div class="item row">
+						<div class="client-details">
+							<img class="img-circle img-responsive" src="img/clients/client-2.jpg" alt="client 2">
+							<h4>sarah ali</h4>
+						</div>
+						<p class="testimonial-text para col-sm-8 col-sm-offset-2 col-xs-12">rapidiously target technically sound collaboration and idea-sharing and efficient leadership. competently utilize real-time systems and maintainable models. monotonectally create dynamic alignments before intermandated e-business.</p>
+					</div>
+					<!-- client no. 3 -->
+					<div class="item row">
+						<div class="client-details">
+							<img class="img-circle img-responsive" src="img/clients/client-3.jpg" alt="client 3">
+							<h4>hossam hassan</h4>
+						</div>
+						<p class="testimonial-text para col-sm-8 col-sm-offset-2 col-xs-12">proactively visualize granular outsourcing rather than synergistic e-tailers. efficiently aggregate client-focused outsourcing rather than prospective manufactured products. distinctively utilize client-focused action items rather than.</p>
+					</div>
+					<!-- client no. 4 -->
+					<div class="item row">
+						<div class="client-details">
+							<img class="img-circle img-responsive" src="img/clients/client-4.jpg" alt="client 4">
+							<h4>mohammed diab</h4>
+						</div>
+						<p class="testimonial-text para col-sm-8 col-sm-offset-2 col-xs-12">proactively predominate fully researched markets and virtual testing procedures. progressively visualize excellent e-business for accurate benefits. distinctively e-enable leveraged technology rather than holistic.</p>
+					</div>
+				</div>
+				<!-- controls -->
+				<div class="carousel-controls">
+					<a href="index.html#carousel" class="left carousel-control" role="button" data-slide="prev">
+						<i class="fa fa-angle-left" aria-hidden="true"></i>
+						<span class="sr-only">previous</span>
+					</a>
+					<a href="index.html#carousel" class="right carousel-control" role="button" data-slide="next">
+						<i class="fa fa-angle-right" aria-hidden="true"></i>
+						<span class="sr-only">next</span>
+					</a>
+				</div>	
+			</div>  <!-- end carousel -->
+		</div>
+	</section>
+	<!-- end testimonials section -->
+
+	<!-- start clients section -->
+	<section id="clients" class="section text-center">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="section-intro wow fadeinup" data-wow-duration="1s" data-wow-offset="200">
+						<h2>clients</h2>
+						<div class="separator centered"></div>
+						<p class="para">dynamically pontificate future-proof relationships whereas interoperable infomediaries. professionally aggregate corporate leadership after accurate users.</p>					
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="client-list">
+					<!-- client no. 1 -->
+					<div class="col-md-3 col-sm-6">
+						<div class="client wow bouncein" data-wow-duration="0.6s" data-wow-offset="100">
+							<img class="img-responsive" src="img/logos/1.png" alt="client no. 1">
+						</div>
+					</div>
+					<!-- client no. 2 -->
+					<div class="col-md-3 col-sm-6">
+						<div class="client wow bouncein" data-wow-duration="0.6s" data-wow-offset="100" data-wow-delay="0.1s">
+							<img class="img-responsive" src="img/logos/2.png" alt="client no. 2">
+						</div>
+					</div>
+					<!-- client no. 3 -->
+					<div class="col-md-3 col-sm-6">
+						<div class="client wow bouncein" data-wow-duration="0.6s" data-wow-offset="100" data-wow-delay="0.2s">
+							<img class="img-responsive" src="img/logos/3.png" alt="client no. 3">
+						</div>
+					</div>
+					<!-- client no. 4 -->
+					<div class="col-md-3 col-sm-6">
+						<div class="client wow bouncein" data-wow-duration="0.6s" data-wow-offset="100" data-wow-delay="0.3s">
+							<img class="img-responsive" src="img/logos/4.png" alt="client no. 4">
+						</div>
+					</div>
+					<!-- client no. 5 -->
+					<div class="col-md-3 col-sm-6">
+						<div class="client wow bouncein" data-wow-duration="0.6s" data-wow-offset="100" data-wow-delay="0.4s">
+							<img class="img-responsive" src="img/logos/5.png" alt="client no. 5">
+						</div>
+					</div>
+					<!-- client no. 6 -->
+					<div class="col-md-3 col-sm-6">
+						<div class="client wow bouncein" data-wow-duration="0.6s" data-wow-offset="100" data-wow-delay="0.5s">
+							<img class="img-responsive" src="img/logos/6.png" alt="client no. 6">
+						</div>
+					</div>
+					<!-- client no. 7 -->
+					<div class="col-md-3 col-sm-6">
+						<div class="client wow bouncein" data-wow-duration="0.6s" data-wow-offset="100" data-wow-delay="0.6s">
+							<img class="img-responsive" src="img/logos/7.png" alt="client no. 7">
+						</div>
+					</div>
+					<!-- client no. 8 -->
+					<div class="col-md-3 col-sm-6">
+						<div class="client wow bouncein" data-wow-duration="0.6s" data-wow-offset="100" data-wow-delay="0.7s">
+							<img class="img-responsive" src="img/logos/8.png" alt="client no. 8">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- end clients section -->
+	
+	<!-- start ready section -->
+	<section id="ready" class="section text-center">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<h3 class="wow fadeinleft" data-wow-duration="1s" data-wow-offset="200">i'm ready for your projects. hire me now</h3>
+					<a href="index.html#contact" class="wow fadeinup scroll-link btn btn-custom light outline-white" data-wow-duration="1s" data-wow-offset="200">contact me</a>
+					<a href="index.html#" class="wow fadeinup btn btn-custom dark outline-white"  data-wow-duration="1s" data-wow-offset="200" data-wow-delay="0.2s"><i class="fa fa-download"></i> my resume</a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- end ready section -->
+	
+	<!-- start google map section -->
+	<section id="map" class="gmap"></section>
+	<!-- end google map section -->
+
+	<!-- start footer section -->
+	<footer>
+		<div class="copyright">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12">
+						<p class="para">&copy; prema 2016 all rights reserved. designed with <i class="fa fa-heart"></i> by ahmed beheiry</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- end footer section -->
+
+	<!-- start to top button -->
+	<div id="totop">
+		<div class="top-button">
+			<i class="fa fa-angle-up"></i>
+		</div>
+	</div>
+	<!-- end to top button -->
+
+	<!-- jquery js file -->
+	<script src="js/jquery-1.12.1.min.js"></script>
+	<!-- bootstrap js file -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- jquery easing file -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- parallax js file -->
+	<script src="js/jquery.parallax-1.1.3.js"></script>
+	<!-- smoothscroll js file -->
+	<script src="js/smoothscroll.js"></script>
+	<!-- appear js file -->
+	<script src="js/jquery.appear.js"></script>
+	<!-- count-to js file -->
+	<script src="js/jquery.countto.js"></script>
+	<!-- easypiechart js file -->
+	<script src="js/jquery.easypiechart.min.js"></script>
+	<!-- mixitup js file -->
+	<script src="js/jquery.mixitup.min.js"></script>
+	<!-- slick slider js file -->
+	<script src="js/slick.min.js"></script>
+	<!-- typed js file -->
+	<script src="js/typed.min.js"></script>
+	<!-- bootstrap form validator js file -->
+	<script src="js/validator.min.js"></script>
+	<!-- google map -->
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=aizasybjox2ces3x3dtsubqabijcln_3ueml7f8"></script>
+	<!-- <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script> -->
+	<!-- map js file -->
+	<script src="js/gmaps.min.js"></script>
+	<!-- dark map js file -->
+	<script class="map-script" src="js/dark-map.js"></script>
+	<!-- custom js file -->
+	<script src="js/scripts.js"></script>
+	<!-- wow.js file -->
+	<script src="js/wow.min.js"></script>
+	<script>
+		new wow().init();
+	</script>
+</body>
+</html>
